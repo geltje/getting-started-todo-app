@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+cd61f824da7a614a8298db503eed6630eeee33a3 refs/remotes/origin/build-image-from-scratch
+fd846e3193babb112c15240d1d6005a6b200b110 refs/remotes/origin/convert-to-use-compose-watch
+40d4fb147c45f0fe819313ba47ac9031986727e6 refs/remotes/origin/dependabot/npm_and_yarn/backend/express-4.19.2
+d96fd760054eae1503a8c4c35ef62299c09d4b4c refs/remotes/origin/dependabot/npm_and_yarn/backend/ip-2.0.1
+b2d3b27b2db909c4be86fb666456abfec07d3079 refs/remotes/origin/dependabot/npm_and_yarn/backend/mysql2-3.9.8
+f7514ac44c606545f3046032336b38d5034ceb00 refs/remotes/origin/dependabot/npm_and_yarn/client/vite-5.0.13
+d3cabcebacf29ab2a27c67fe3520eb2148dc3272 refs/remotes/origin/fix-env-var-comment
+da5f2502b8ce04b0905968ebe939d60114f58b4f refs/remotes/origin/main
+f7748f9863bb9892b2bd22830520522697ba6423 refs/remotes/origin/swap-phpmyadmin-image
